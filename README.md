@@ -8,4 +8,4 @@ A simple **ATM system** built using Java, allowing users to perform basic bankin
 ## 🚀 How to Run the Project?
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/ATM-Simulator.git
+   git clone https://github.com/manojkumar471/ATM-Simulator.git
