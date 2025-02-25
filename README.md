@@ -33,6 +33,6 @@ A simple **ATM system** built using Java, allowing users to perform basic bankin
 ## 📌 About
 This project is designed to simulate an **ATM system** with essential banking functionalities. It's a great beginner-friendly Java project demonstrating basic object-oriented programming concepts.
 ---
-👨‍💻 **Developed by** MANOJ\
+👨‍💻 **Developed by** MANOJ
 📌 **Repository:** [ATM-Simulator](https://github.com/your-username/ATM-Simulator)
 
